@@ -131,19 +131,19 @@ netflix-pandasai-analysis/
 <summary>Click to view all visualizations</summary>
 
 #### 1. Content Type Distribution
-![Movies vs TV Shows](visualizations/viz1_movies_vs_tv.png)
+![Movies vs TV Shows](visualisations/viz1_movies_vs_tv.png)
 
 #### 2. Temporal Trends
-![Content Timeline](visualizations/viz2_content_timeline.png)
+![Content Timeline](visualisations/viz2_content_timeline.png)
 
 #### 3. Movie Duration Distribution
-![Movie Durations](visualizations/viz3_movie_durations.png)
+![Movie Durations](visualisations/viz3_movie_durations.png)
 
 #### 4. TV Show Seasons
-![TV Seasons](visualizations/viz4_tv_seasons.png)
+![TV Seasons](visualisations/viz4_tv_seasons.png)
 
 #### 5. Geographic Distribution
-![Top Countries](visualizations/viz5_top_countries.png)
+![Top Countries](visualisations/viz5_top_countries.png)
 
 </details>
 
