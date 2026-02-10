@@ -234,71 +234,24 @@ Contributions are welcome! Here's how you can help:
    ```bash
    git push origin feature/amazing-feature
    ```
-5. **Open a Pull Request**
-
-### Contribution Ideas
-
-- [ ] Add more analysis questions
-- [ ] Implement different visualization libraries (Plotly, Altair)
-- [ ] Compare multiple LLM backends (GPT-4 vs Claude vs PaLM)
-- [ ] Add interactive dashboard (Streamlit/Dash)
-- [ ] Expand to other streaming platforms (Disney+, HBO Max)
-- [ ] Add statistical testing
-- [ ] Create presentation slides
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Contact
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Name](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: https://github.com/AnushkaKhadatkar
+- LinkedIn: https://www.linkedin.com/in/anushka-khadatkar/
 - Medium: [@YOUR_MEDIUM](https://medium.com/@YOUR_MEDIUM)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- **Dataset:** [Shivam Bansal on Kaggle](https://www.kaggle.com/shivamb)
-- **PandasAI:** [Gabriele Venturi](https://github.com/gventuri/pandas-ai)
-- **Inspiration:** Exploration of AI-assisted data analysis tools
-- **Course:** Data Science Methods (University Name)
-
-## 📚 Additional Resources
-
-- [PandasAI Documentation](https://docs.pandas-ai.com/)
-- [OpenAI API Documentation](https://platform.openai.com/docs)
-- [Netflix Technology Blog](https://netflixtechblog.com/)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-
-## 🔮 Future Work
-
-- [ ] Sentiment analysis on descriptions
-- [ ] Recommendation system based on genres
-- [ ] Time series forecasting for content additions
-- [ ] A/B testing framework with PandasAI
-- [ ] Multi-dataset comparison (Netflix vs competitors)
-- [ ] Natural language report generation
-- [ ] Voice-activated data queries
+- Email: anushkak1202@gmail.com
 
 ---
 
 <div align="center">
 
-**⭐ Star this repo if you found it helpful!**
-
-**🔗 Share with fellow data enthusiasts**
-
-**📢 Questions? Open an issue or start a discussion**
 
 Made with ❤️ and PandasAI
 
 </div>
 
----
-
-## 📊 Repository Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/netflix-pandasai-analysis?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/netflix-pandasai-analysis?style=social)
