@@ -71,42 +71,6 @@ cp .env.example .env
 # Edit .env and add your OPENAI_API_KEY
 ```
 
-## 💻 Usage
-
-### Basic Analysis
-
-```python
-from pandasai import SmartDataframe
-import pandas as pd
-import os
-
-# Load data
-df = pd.read_csv('data/netflix_titles.csv')
-
-# Create SmartDataframe
-os.environ['OPENAI_API_KEY'] = 'your-api-key'
-sdf = SmartDataframe(df)
-
-# Ask questions in natural language
-response = sdf.chat("How many movies vs TV shows are on Netflix?")
-print(response)
-
-response = sdf.chat("Show me the trend of content additions over time")
-print(response)
-```
-
-### Running the Complete Analysis
-
-```bash
-# Run the main analysis script
-python src/analysis.py
-
-# Run individual analyses
-python src/content_type_analysis.py
-python src/temporal_analysis.py
-python src/geographic_analysis.py
-```
-
 ## 📁 Project Structure
 
 ```
@@ -150,16 +114,6 @@ netflix-pandasai-analysis/
   - `listed_in`: Genres
   - `description`: Synopsis
 
-## 🛠️ Technologies
-
-- **Python 3.9+**: Core programming language
-- **PandasAI**: Natural language data analysis
-- **Pandas**: Data manipulation and analysis
-- **Matplotlib**: Static visualizations
-- **Seaborn**: Statistical data visualization
-- **OpenAI GPT-3.5/4**: Language model for PandasAI
-- **Jupyter**: Interactive analysis notebooks
-
 ## 📈 Results
 
 ### Performance Comparison
@@ -199,33 +153,6 @@ I wrote a comprehensive Medium blog post about this analysis:
 
 **[Analyzing Netflix with PandasAI: Data Science in Plain English](YOUR_MEDIUM_LINK_HERE)**
 
-The blog covers:
-- Complete methodology
-- Step-by-step analysis process
-- All key findings with interpretations
-- PandasAI best practices
-- Real-world applications
-- Challenges and solutions
-
-**Read time:** 8-10 minutes
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add some amazing feature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
 
 ## 👤 Contact
 
