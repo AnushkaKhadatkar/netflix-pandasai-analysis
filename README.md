@@ -170,10 +170,3 @@ I wrote a comprehensive Medium blog post about this analysis:
 Made with ❤️ and PandasAI
 
 </div>
-
-
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/netflix-pandasai-analysis?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/netflix-pandasai-analysis?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/YOUR_USERNAME/netflix-pandasai-analysis?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/netflix-pandasai-analysis)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/netflix-pandasai-analysis)
