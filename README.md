@@ -151,7 +151,7 @@ netflix-pandasai-analysis/
 
 I wrote a comprehensive Medium blog post about this analysis:
 
-**[Analyzing Netflix with PandasAI: Data Science in Plain English](YOUR_MEDIUM_LINK_HERE)**
+**[Analyzing Netflix with PandasAI: Data Science in Plain English](https://medium.com/@anushkak1202/analyzing-netflix-with-pandasai-data-science-in-plain-english-79dca2ccfd7a)**
 
 
 ## 👤 Contact
@@ -159,7 +159,7 @@ I wrote a comprehensive Medium blog post about this analysis:
 **Your Name**
 - GitHub: https://github.com/AnushkaKhadatkar
 - LinkedIn: https://www.linkedin.com/in/anushka-khadatkar/
-- Medium: [@YOUR_MEDIUM](https://medium.com/@YOUR_MEDIUM)
+- Medium: https://medium.com/@anushkak1202
 - Email: anushkak1202@gmail.com
 
 ---
