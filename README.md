@@ -45,14 +45,6 @@ Using Netflix's content library dataset (8,807 titles), I explored content strat
 - **India**: Significant second contributor
 - Growing international production (UK, South Korea, Canada)
 
-## ✨ Features
-
-- **Natural Language Queries**: Ask questions in plain English
-- **Automated Visualizations**: PandasAI generates charts automatically
-- **Comparative Analysis**: Traditional pandas vs PandasAI approaches
-- **Comprehensive EDA**: Five key research questions explored
-- **Production-Ready Code**: Clean, well-documented Python scripts
-
 ## 🚀 Installation
 
 ### Prerequisites
