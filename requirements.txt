@@ -1,0 +1,31 @@
+# Core Dependencies
+pandas>=2.0.0
+pandasai>=1.5.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# AI/ML
+openai>=1.0.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Jupyter Notebooks
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Data Processing
+openpyxl>=3.1.0  # For Excel file support
+xlrd>=2.0.1  # For older Excel formats
+
+# Utilities
+tqdm>=4.65.0  # Progress bars
+requests>=2.31.0
+
+# Optional: For PDF export
+# fpdf>=1.7.2
+# reportlab>=4.0.0
